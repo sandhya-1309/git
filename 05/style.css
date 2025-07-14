@@ -1,0 +1,44 @@
+/* font-size */
+.font-size .p1{
+    font-size: 24;
+    color:peru;
+    background: black;
+}
+.font-size  .p2{
+    font-size: 35;
+    color: blue;
+}
+.font-size .p3{
+    font-size: 20;
+    color: brown;
+}
+.font-size .p4{
+    font-size: 40;
+    background: palevioletred;
+}
+
+
+/* text align */
+.text-align .p1{
+    text-align: center;
+    color: red;
+}
+.text-align .p2{
+    text-align: left;
+    color: purple ;
+    background: red;
+}
+.text-align .p3{
+    text-align: right;
+    color: goldenrod;
+}
+.text-align .p4{
+    text-align: start;
+    color: greenyellow ;
+    font-size: 35px;
+    background: black;
+
+}
+.line-hight{
+    
+}

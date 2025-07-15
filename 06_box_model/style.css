@@ -1,0 +1,42 @@
+*{
+     margin: 0; 
+     padding: 0; 
+     box-sizing: border-box; 
+}
+
+
+
+.box{
+    height: 300px;
+    width: 300px;
+}
+
+.box1{
+    background-color:red;
+    border: solid rebeccapurple 10px;
+    text-align: justify;
+    padding: 20px 25px 30px 40px; 
+    margin-top: 20px;
+    margin-right: 25px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+
+    
+}
+
+.box2{
+    background-color:blue ;
+    border:solid green 20px;
+    padding-top: 30px;
+    padding-right: 35px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    margin: 25px 30px 33px;
+
+
+}
+.box3{
+    background-color: blueviolet;
+    border: solid black 5px;
+    
+}
